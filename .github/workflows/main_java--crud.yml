@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'java--crud'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2AFD1E0C0BC4BB3BF39BF93D156CB8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFEC4B55B45F45A2AC8A4A76D61A2B4C }}
           package: '*.jar'
